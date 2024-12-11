@@ -1,0 +1,3 @@
+[submodule "quant_physics_repo"]
+	path = quant_physics_repo
+	url = https://github.com/churna/quant_physics_repo
